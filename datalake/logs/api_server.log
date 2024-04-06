@@ -41,3 +41,23 @@
 2024-04-06 08:24:42,993:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
 2024-04-06 08:24:46,398:INFO:Prediction: [1605832.10562042]
 2024-04-06 08:24:46,399:INFO:127.0.0.1 - - [06/Apr/2024 08:24:46] "POST / HTTP/1.1" 200 -
+2024-04-06 09:30:52,586:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:30:52,587:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:30:52,589:INFO: * Restarting with stat
+2024-04-06 09:30:54,077:WARNING: * Debugger is active!
+2024-04-06 09:30:54,082:INFO: * Debugger PIN: 809-255-753
+2024-04-06 09:30:54,150:INFO:127.0.0.1 - - [06/Apr/2024 09:30:54] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:30:54,349:INFO:127.0.0.1 - - [06/Apr/2024 09:30:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:31:03,960:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:31:09,892:INFO:Prediction: [155849.90294016]
+2024-04-06 09:31:09,934:INFO:127.0.0.1 - - [06/Apr/2024 09:31:09] "POST / HTTP/1.1" 200 -
+2024-04-06 09:34:31,949:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:34:31,953:INFO:Prediction: [196200.65530579]
+2024-04-06 09:34:31,953:INFO:127.0.0.1 - - [06/Apr/2024 09:34:31] "POST / HTTP/1.1" 200 -
+2024-04-06 09:34:38,501:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [2]}
+2024-04-06 09:34:38,505:INFO:Prediction: [196200.65530579]
+2024-04-06 09:34:38,507:INFO:127.0.0.1 - - [06/Apr/2024 09:34:38] "POST / HTTP/1.1" 200 -
+2024-04-06 09:34:44,624:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [4]}
+2024-04-06 09:34:44,627:INFO:Prediction: [276902.16003705]
+2024-04-06 09:34:44,628:INFO:127.0.0.1 - - [06/Apr/2024 09:34:44] "POST / HTTP/1.1" 200 -
