@@ -1,0 +1,24 @@
+2024-03-23 11:56:39,857:INFO:Starting the application
+2024-03-23 11:56:39,886:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:56:39,887:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:56:39,889:INFO: * Restarting with stat
+2024-03-23 11:56:41,243:INFO:Starting the application
+2024-03-23 11:56:41,253:WARNING: * Debugger is active!
+2024-03-23 11:56:41,259:INFO: * Debugger PIN: 809-255-753
+2024-03-23 11:57:16,588:INFO:127.0.0.1 - - [23/Mar/2024 11:57:16] "GET / HTTP/1.1" 200 -
+2024-03-23 11:57:16,707:INFO:127.0.0.1 - - [23/Mar/2024 11:57:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 11:58:37,149:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:58:41,967:INFO:Prediction: 155849.9
+2024-03-23 11:58:41,968:INFO:127.0.0.1 - - [23/Mar/2024 11:58:41] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:39,827:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:39,831:INFO:Prediction: 155849.9
+2024-03-23 12:16:39,832:INFO:127.0.0.1 - - [23/Mar/2024 12:16:39] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:44,345:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 2}
+2024-03-23 12:16:44,350:INFO:Prediction: 196200.66
+2024-03-23 12:16:44,351:INFO:127.0.0.1 - - [23/Mar/2024 12:16:44] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:51,578:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 4}
+2024-03-23 12:16:51,582:INFO:Prediction: 276902.16
+2024-03-23 12:16:51,584:INFO:127.0.0.1 - - [23/Mar/2024 12:16:51] "POST / HTTP/1.1" 200 -
+2024-03-23 12:42:30,351:INFO:Application  terminated
+2024-03-23 12:42:31,067:INFO:Application  terminated
